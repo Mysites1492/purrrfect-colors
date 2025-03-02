@@ -1,4 +1,3 @@
-import React from 'react';
 import { FaFacebook, FaInstagram, FaSnapchat, FaPinterestP, FaTwitter, FaYoutube, FaAmazon } from 'react-icons/fa';
 
 function Footer () {
@@ -6,7 +5,7 @@ function Footer () {
     <footer className="bg-gray-100 text-gray-800 py-16 text-center">
               <p className="text-lg text-gray-600">PurrrfectColors@gmail.com</p><br></br>
       <div className="flex justify-center space-x-6 mb-6">
-        <a href="#" className="text-3xl hover:text-gray-600">
+        <a href="https://www.amazon.com/dp/B0DYGDSK8D" className="text-3xl hover:text-gray-600">
           <FaAmazon />
         </a>
         <a href="https://www.instagram.com/purrrfectcolors" className="text-3xl hover:text-gray-600">

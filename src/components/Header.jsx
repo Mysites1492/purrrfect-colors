@@ -1,4 +1,3 @@
-import NavBar from "./NavBar";
 
 // Header Component
 function Header () {
