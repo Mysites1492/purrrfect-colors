@@ -9,9 +9,10 @@ function Banner() {
                 <p className="text-xl mb-6">
                     Now available on Amazon!
                 </p>
-                <button className="bg-white text-violet-900 font-semibold py-2 px-6 rounded-full hover:bg-purple-200 transition duration-300">
-                    BUY NOW
-                </button>
+                    <a href="https://www.amazon.com/dp/B0DYGDSK8D" target="_blank" rel="noopener noreferrer">
+                    <button className="bg-white text-violet-900 font-semibold py-2 px-6 rounded-full hover:bg-purple-200 transition duration-300">
+                     BUY NOW
+                    </button> </a>
             </div>
             
             {/* Image Section */}
