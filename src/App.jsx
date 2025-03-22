@@ -5,6 +5,7 @@ import MainGallery from './components/MainGallery'
 import Footer from './components/Footer'
 import Banner from './components/Banner'
 import NavBar from './components/NavBar'
+import Newsletter from './components/Newsletter'
 
 
 function App() {
@@ -43,6 +44,10 @@ function App() {
           <Banner />
         </section>
         
+        <section id="newsletter">
+          <Newsletter />
+        </section>        
+
 
         <section id="portfolio" className="z-80">
           <MainGallery />

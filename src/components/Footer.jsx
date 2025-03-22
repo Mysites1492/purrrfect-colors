@@ -1,4 +1,4 @@
-import { FaFacebook, FaInstagram, FaSnapchat, FaPinterestP, FaTwitter, FaYoutube, FaAmazon } from 'react-icons/fa';
+import {FaInstagram, FaTwitter, FaYoutube, FaAmazon } from 'react-icons/fa';
 
 function Footer () {
   return (
