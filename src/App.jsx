@@ -3,7 +3,6 @@ import './App.css'
 import Header from './components/Header'
 import MainGallery from './components/MainGallery'
 import Footer from './components/Footer'
-import Banner from './components/Banner'
 import NavBar from './components/NavBar'
 import Newsletter from './components/Newsletter'
 
@@ -38,10 +37,6 @@ function App() {
         </section>
         <section className="sticky top-2 z-20">
           <NavBar />
-        </section>
-
-        <section id="banner">
-          <Banner />
         </section>
         
         <section id="newsletter">
